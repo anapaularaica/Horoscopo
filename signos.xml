@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>19/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <lema>Primeiro eu, depois o resto.</lema>
+        <elemento>Fogo</elemento>
+        <regente>Marte</regente>
+        <descricao>Áries é a energia pura do "fazer". São pessoas diretas que perdem a paciência com lerdeza, mas que defendem os amigos com unhas e dentes. Se você quer sinceridade (até demais), pergunte a um ariano.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <lema>Devagar e sempre (e com lanche).</lema>
+        <elemento>Terra</elemento>
+        <regente>Vênus</regente>
+        <descricao>O taurino é o porto seguro do zodíaco. Valoriza o conforto, a boa comida e a estabilidade. Pode ser teimoso como uma porta, mas é a pessoa mais leal que você vai conhecer. Eles não têm pressa, eles têm destino.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <lema>Deixa eu te contar uma coisa...</lema>
+        <elemento>Ar</elemento>
+        <regente>Mercúrio</regente>
+        <descricao>Gêmeos é o mestre da conversa. Mudam de ideia como quem muda de roupa, mas é porque o mundo tem opções demais para escolher uma só. São inteligentes, curiosos e nunca deixam o assunto morrer.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <lema>Sinto, logo existo.</lema>
+        <elemento>Água</elemento>
+        <regente>Lua</regente>
+        <descricao>Câncer é pura emoção e memória. Eles guardam lembranças como tesouros. Podem parecer fechados no início (a casca do caranguejo), mas por dentro são as pessoas mais cuidadosas e sensíveis que existem.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <lema>O palco é meu por direito.</lema>
+        <elemento>Fogo</elemento>
+        <regente>Sol</regente>
+        <descricao>Leão tem um brilho que não dá para ignorar. São generosos e têm um coração gigante, mas precisam de reconhecimento. Se um leonino te ama, ele vai fazer você se sentir a pessoa mais especial do mundo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <lema>Dá para fazer melhor.</lema>
+        <elemento>Terra</elemento>
+        <regente>Mercúrio</regente>
+        <descricao>Virgem é o signo da praticidade. Eles observam tudo o que ninguém vê. Podem ser críticos, mas é porque realmente querem ajudar a consertar as coisas. Organizados (mesmo que seja na bagunça deles).</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <lema>Depende, os dois lados têm razão.</lema>
+        <elemento>Ar</elemento>
+        <regente>Vênus</regente>
+        <descricao>Libra busca o equilíbrio e a paz. São charmosos e odeiam conflitos. A indecisão vem da vontade de ser justo com todo mundo. Valorizam a estética e as parcerias mais do que qualquer outro signo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <lema>Tudo ou nada.</lema>
+        <elemento>Água</elemento>
+        <regente>Plutão</regente>
+        <descricao>Escorpião é intensidade pura. Ou eles amam, ou ignoram. Têm um "radar" para mentiras e uma profundidade emocional que assusta quem prefere o superficial. São os melhores amigos para guardar segredos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <lema>A vida é um vapt-vupt.</lema>
+        <elemento>Fogo</elemento>
+        <regente>Júpiter</regente>
+        <descricao>Sagitário é o viajante do zodíaco. Amam a liberdade e detestam rotina. São os mais otimistas e engraçados, sempre prontos para uma aventura nova ou para uma conversa profunda sobre o sentido da vida.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>19/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <lema>Trabalho duro vence o talento.</lema>
+        <elemento>Terra</elemento>
+        <regente>Saturno</regente>
+        <descricao>Capricórnio é a definição de resiliência. São focados, responsáveis e têm os pés bem no chão. Podem parecer sérios demais, mas é porque estão ocupados construindo o império deles. Humor ácido é o forte deles.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <lema>Diferente é pouco.</lema>
+        <elemento>Ar</elemento>
+        <regente>Urano</regente>
+        <descricao>Aquário vive no futuro. São os originais, os que questionam as regras e os que amam a coletividade. Podem parecer distantes emocionalmente, mas são os que mais se importam com o bem do mundo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <lema>Eu sonho acordado.</lema>
+        <elemento>Água</elemento>
+        <regente>Netuno</regente>
+        <descricao>Peixes é pura empatia. Eles sentem o que os outros sentem. São artísticos, sonhadores e às vezes parecem estar em outro planeta. É o signo mais sensível e com a imaginação mais fértil de todos.</descricao>
+    </signo>
+</signos>
